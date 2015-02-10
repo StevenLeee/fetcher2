@@ -38,10 +38,15 @@ https://github.com/StevenLeee/fetcher2.git
 
 
 八、	Install
+
 after download file fetcher-0.1.linux-x86_64.tar.gz, enter download directory
+
 tar -zxvf fetcher-0.1.linux-x86_64.tar.gz
+
 cd fetcher-0.1.linux-x86_64
+
 chmod -R 777  ./*
+
 cp -R ./*  /
 
 
@@ -73,8 +78,11 @@ fetcher  -d /home/juyun/datafile/nfcap
 fetcher  -k 19e5cb7a2ec9c43a7a90cec3360fb7b5868d08d6
 
 until print message as below:
+
 datadir= home/juyun/datafile/nfcap
+
 pluginid= ClearClouds
+
 newrelickey=19e5cb7a2ec9c43a7a90cec3360fb7b5868d08d6
 
 十、	Execute fetcher
