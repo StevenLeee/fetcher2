@@ -1,6 +1,6 @@
 
-	The ClearClouds Fetcher Plugin Published and supported by New Relic Platform Team
-	The ClearClouds Fetcher Plugin enables integrated monitoring  inside of New Relic, include:
+The ClearClouds Fetcher Plugin Published and supported by New Relic Platform Team
+The ClearClouds Fetcher Plugin enables integrated monitoring  inside of New Relic, include:
 一、	Requirement
 OS : Red Hat6.2 64bits or later / CentOS6.2 64bits or later
 Disk : more then 500G
@@ -65,10 +65,6 @@ newrelickey=19e5cb7a2ec9c43a7a90cec3360fb7b5868d08d6
 十、	Execute fetcher
 
 fetcher -r
-
-
-
-OK!!!
 
 
 
